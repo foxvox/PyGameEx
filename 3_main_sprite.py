@@ -17,6 +17,7 @@ while running:
             running = False; 
             
     screen.blit(background, (0, 0)) 
+    print("hello")
     # screen.fill((0, 0, 255)) 
     pygame.display.update() 
          
